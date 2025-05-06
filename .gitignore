@@ -1,0 +1,21 @@
+# Build artifacts
+*.o
+*.out
+*.exe
+main
+main.dSYM/
+*.a
+*.so
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+
+# CMake or Make build folders (if used)
+build/
